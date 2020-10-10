@@ -1,6 +1,7 @@
 # PythonHMM
 
 **PythonHMM** is a python implementation of the [Hidden Markov Model](http://en.wikipedia.org/wiki/Hidden_Markov_model).
+ref) https://ratsgo.github.io/machine%20learning/2017/10/14/computeHMMs/
 
 ## Usage
 
